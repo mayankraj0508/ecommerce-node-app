@@ -39,3 +39,8 @@ app.js -> Main server file
 2. Install dependencies
 3. Start the server
 4. Open browser on localhost
+5. ---
+
+## Author
+**Mayank Raj**
+
